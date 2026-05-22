@@ -59,6 +59,8 @@ The counter successfully counted from 0000 to 1111 using a common clock signal. 
 - Timing Waveforms
 - Presentation Slides
 
+## Note: everything is given in the project report, first we make the  circuit in DSCH3 and then we extract the hexfile and then open it through microwindv3 version.
+
 ## Author
 
 Harish Raja  
